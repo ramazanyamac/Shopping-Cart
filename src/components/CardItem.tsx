@@ -9,7 +9,7 @@ type CardItemProps = {
 
 export const CardItem = ({ id, quantity }: CardItemProps) => {
     const { removeFromCart } = useShoppingCart();
-    const item = storeItems.find((i) => i.id === id);
+    const item: any = storeItems.find((i) => i.id === id);
     if (item === null) return null;
     return (
         <div className="flex items-center space-x-4 py-5">
