@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "https://images.pexels.com/photos/2099691/pexels-photo-2099691.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Computer",
+        "price": 1120,
+        "imgUrl": "https://images.pexels.com/photos/930530/pexels-photo-930530.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id": 3,
+        "name": "Table",
+        "price": 110,
+        "imgUrl": "https://images.pexels.com/photos/2092058/pexels-photo-2092058.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 4,
+        "name": "Car",
+        "price": 3467,
+        "imgUrl": "https://images.pexels.com/photos/1402787/pexels-photo-1402787.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    }
+]
